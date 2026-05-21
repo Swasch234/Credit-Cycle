@@ -1,0 +1,4 @@
+Regime,Intercept (μ),AR(1) (φ),Std Dev (σ),Half-life (months)
+Strain,0.076,0.8994,0.2782,6.5
+Expansion,-0.4852,0.7513,0.1114,2.4
+Crisis,0.6624,0.6462,1.0645,1.6
